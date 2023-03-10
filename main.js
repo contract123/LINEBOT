@@ -28,7 +28,7 @@
   }
   
   function line_bot(data) {
-    $.post('https://script.google.com/macros/s/AKfycbxa34pt_zA5bcaSObcjqv3DCT3p3NDRKy8vMeZeN2Ao0T1nGvcyg4zKG6MujXzz91Xoew/exec',
+    $.post('https://script.google.com/macros/s/AKfycbzZuD1yyZ7gbNVGhniqymjPVdJqwkASX5lGDlUPBYwiVGpdjcjyJRklhvQscP6FxwGg/exec',
       data,
       function(e){
 		console.log(e);
